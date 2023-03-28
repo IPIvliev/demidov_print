@@ -10,7 +10,7 @@
 *~
 /logs
 /data
-/media/
+media/
 .~*
 common/CACHE
 node_modules
